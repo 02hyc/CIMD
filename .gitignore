@@ -1,0 +1,5 @@
+# Ignore all folders
+*/
+
+# Ignore all .pt model files
+*.pt
