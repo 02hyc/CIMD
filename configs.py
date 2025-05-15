@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
-@author: Yongchang Cao
-@contact: cyc990520@gmail.com
-@file: configs.py
-@time: 2022/9/23 23:18
+@author: Yanchen Huang
+@contact: yanchenhuang@smail.nju.edu.cn
+@time: 2025/3/23
 @desc:
 '''
 

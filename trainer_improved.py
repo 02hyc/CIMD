@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 '''
-@author: Yongchang Cao
-@contact: cyc990520@gmail.com
-@file: trainer_improved.py
-@time: 2025/3/6
-@desc: Improved trainer with support for new parameters in configs_improved.py
+@author: Yanchen Huang
+@contact: yanchenhuang@smail.nju.edu.cn
+@time: 2025/3/23
+@desc:
 '''
 import os
 gpuid = '0'

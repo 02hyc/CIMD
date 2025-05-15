@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
-@author: Yongchang Cao
-@contact: cyc990520@gmail.com
-@file: trainer.py
-@time: 2022/3/23 21:53
+@author: Yanchen Huang
+@contact: yanchenhuang@smail.nju.edu.cn
+@time: 2025/3/23
 @desc:
 '''
 import json
